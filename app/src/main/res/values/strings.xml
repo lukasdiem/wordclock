@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WordClock</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- font awesome icons -->
+    <string name="fa_power">&#xf011;</string>
+</resources>
